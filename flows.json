@@ -3188,5 +3188,32 @@
                 "a382e80e3a8fa274"
             ]
         ]
+    },
+    {
+        "id": "6d4ed9902666e926",
+        "type": "inject",
+        "z": "04612f48e1f20c8b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 820,
+        "y": 1320,
+        "wires": [
+            []
+        ]
     }
 ]
